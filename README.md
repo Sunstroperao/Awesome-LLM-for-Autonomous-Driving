@@ -2,18 +2,22 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)![GitHub stars](https://img.shields.io/github/stars/Sunstroperao/Awesome-LLM-for-Autonomous-Driving?color=yellow) ![GitHub forks](https://img.shields.io/github/forks/Sunstroperao/Awesome-LLM-for-Autonomous-Driving?color=9cf) [![GitHub license](https://img.shields.io/github/license/Sunstroperao/Awesome-LLM-for-Autonomous-Driving)](https://github.com/Sunstroperao/Awesome-LLM-for-Autonomous-Driving/blob/main/LICENSE)
 
-This is a collection of research papers about **LLM-for-Autonomous-Driving**. This repository will be continuously updated to track the most cutting-edge research of LLM-for-Autonomous-Driving. **Maintained by Jiang Hao.**
+This is a collection of research papers about **LLM-for-Autonomous-Driving**. This repository will be continuously updated to track the most cutting-edge research of LLM-for-Autonomous-Driving. **Maintained by Intelligent Vehicle Institute of SJTU.**
 
 Welcome to follow and star! Anyone interested in further communication and discussion, please feel free to contact me (jianghaoyyds@sjtu.edu.cn).
 
 
 ## Survey
-- LLM4Drive: A Survey of Large Lanuguage Models for Autonomous Driving. 2023.11 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.01043)
+- A Survey for Foundation Models in Autonomous Driving. 2024.02 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2402.01105)
+- World Models for Autonomous Driving: An Initial Survey. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.02622)
+- A Survey of Large Lanuguage Models for Autonomous Driving. 2023.11 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.01043)
 - A Survey on Multimodal Large Language Models for Autonomous Driving. **[WACV 2024]** [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.12320)
+- Vision Language Models in Autonomous Driving and Intelligent Transportation Systems.2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2310.14414)
 
 ## LLM for Autonomous Perception
 - AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving. 2024.03 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.17373)
-- HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving[![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.05186)
+- HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving. 2023.09 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.05186)
+- Language Prompt for Autonomous Driving. 2023.09 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.04379)
 
 
 ## LLM for Autonomous Prediction
@@ -23,12 +27,16 @@ Welcome to follow and star! Anyone interested in further communication and discu
 - GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models. 2023.12 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2312.03543) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/Petrichor625/Talk2car_CAVG)
 - LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving. 2024.03 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.20116) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://reachpranjal.github.io/lego-drive/)
 - GPT-4V Takes the Wheel: Promises and Challenges for Pedestrian Behavior Prediction. 2024.01 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.14786) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://reachpranjal.github.io/lego-drive/)
+- Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving. 2023.09 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.05282)
+- MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections. 2023.07 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2307.16118)
 
 ## LLM for Autonomous Decision
 - Large Language Models as Decision Makers for Autonomous Driving [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://openreview.net/forum?id=NkYCuGM7E2)
+- Drive Like a Human: Rethinking Autonomous Driving with Large Language Models.2023.07 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://browse.arxiv.org/abs/2307.07162) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/PJLab-ADG/DriveLikeAHuman)
 - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models. **[ICLR 2024]**  [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2402.12289) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/PJLab-ADG/DiLu)
 - Large Language Models for Autonomous Driving:Real-World Experiments. [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2312.09397) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://purduedigitaltwin.github.io/llm4ad/talk2drive.html) 
 - LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2310.03026) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://sites.google.com/view/llm-mpc) 
+- MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections. 2023.07 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2307.16118)
 
 ## LLM for Autonomous Planning
 
@@ -45,3 +53,5 @@ Welcome to follow and star! Anyone interested in further communication and discu
 - A Language Agent for Autonomous Driving. 2023.11 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.13549) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/USC-GVL/Agent-Driver?tab=readme-ov-file)
 - ChatGPT as Your Vehicle Co-Pilot: An Initial Attempt. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://ieeexplore.ieee.org/document/10286969)
 - Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2310.08034)
+- DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2310.01412) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://tonyxuqaq.github.io/projects/DriveGPT4/)
+- GPT-DRIVER: LEARNING TO DRIVE WITH GPT. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://browse.arxiv.org/abs/2310.01415v1) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/PointsCoder/GPT-Driver)
