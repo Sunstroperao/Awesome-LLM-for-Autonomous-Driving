@@ -50,7 +50,7 @@ We invite you to follow and star this repository! If you are interested in furth
 - MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections. 2023.07 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2307.16118)
 
 ## 📑 LLM for Autonomous Vehicle Planning
-- OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception,Reasoning and Planning. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2405.01533) [![Static Badge](https://github.com/NVlabs/OmniDrive)
+- OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception,Reasoning and Planning. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2405.01533) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/NVlabs/OmniDrive)
 - NL2Plan: Robust LLM-Driven Planning from Minimal Text Descriptions. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2405.04215)
 - AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning. 2024.04 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2404.06345) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://tsinghua-mars-lab.github.io/DriveVLM/)
 - Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs. 2024.04 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2404.04869)
