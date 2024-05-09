@@ -7,20 +7,21 @@ This is a collection of research papers about **LLM-for-Autonomous-Driving**. Th
 Welcome to follow and star! Anyone interested in further communication and discussion, please feel free to contact me (jianghaoyyds@sjtu.edu.cn).
 
 
-## Survey
+## 📚 Survey
 - A Survey for Foundation Models in Autonomous Driving. 2024.02 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2402.01105)
 - World Models for Autonomous Driving: An Initial Survey. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.02622)
 - A Survey of Large Lanuguage Models for Autonomous Driving. 2023.11 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.01043)
 - A Survey on Multimodal Large Language Models for Autonomous Driving. **[WACV 2024]** [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.12320)
 - Vision Language Models in Autonomous Driving and Intelligent Transportation Systems.2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2310.14414)
+- Towards Knowledge-driven Autonomous Driving. 2023.12 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2312.04316)
 
-## LLM for Autonomous Perception
+## 📑 LLM for Autonomous Vehicle Perception
 - AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving. 2024.03 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.17373)
 - HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving. 2023.09 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.05186)
 - Language Prompt for Autonomous Driving. 2023.09 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.04379)
 
 
-## LLM for Autonomous Prediction
+## 📑 LLM for Autonomous Vehicle Prediction
 
 - LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models. 2024.03 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.18344)
 - Large Language Models Powered Context-aware Motion Prediction. 2024.03 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2403.11057) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://sites.google.com/view/llm-ad)
@@ -30,7 +31,7 @@ Welcome to follow and star! Anyone interested in further communication and discu
 - Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving. 2023.09 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.05282)
 - MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections. 2023.07 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2307.16118)
 
-## LLM for Autonomous Decision
+## 📑 LLM for Autonomous Vehicle Decision
 - Large Language Models as Decision Makers for Autonomous Driving [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://openreview.net/forum?id=NkYCuGM7E2)
 - Drive Like a Human: Rethinking Autonomous Driving with Large Language Models.2023.07 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://browse.arxiv.org/abs/2307.07162) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/PJLab-ADG/DriveLikeAHuman)
 - DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models. **[ICLR 2024]**  [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2402.12289) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/PJLab-ADG/DiLu)
@@ -38,7 +39,7 @@ Welcome to follow and star! Anyone interested in further communication and discu
 - LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2310.03026) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://sites.google.com/view/llm-mpc) 
 - MTD-GPT: A Multi-Task Decision-Making GPT Model for Autonomous Driving at Unsignalized Intersections. 2023.07 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2307.16118)
 
-## LLM for Autonomous Planning
+## 📑 LLM for Autonomous Vehicle Planning
 
 - AGENTSCODRIVER: Large Language Model Empowered Collaborative Driving with Lifelong Learning. 2024.04 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2404.06345) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://tsinghua-mars-lab.github.io/DriveVLM/)
 - DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models. 2024.02 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.16292) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://tsinghua-mars-lab.github.io/DriveVLM/)
@@ -55,3 +56,7 @@ Welcome to follow and star! Anyone interested in further communication and discu
 - Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2310.08034)
 - DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2310.01412) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://tonyxuqaq.github.io/projects/DriveGPT4/)
 - GPT-DRIVER: LEARNING TO DRIVE WITH GPT. 2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://browse.arxiv.org/abs/2310.01415v1) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/PointsCoder/GPT-Driver)
+
+
+## 🔖 License
+Awesome-LLM-for-Autonomous-Driving is released under the Apache 2.0 license.
