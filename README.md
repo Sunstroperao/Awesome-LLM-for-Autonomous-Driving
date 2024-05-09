@@ -12,6 +12,8 @@ LLM4Drive: A Survey of Large Language Models for Autonomous Driving [![Static Ba
 A Survey on Multimodal Large Language Models for Autonomous Driving [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.12320)
 
 ## LLM for Autonomous Perception
+HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving[![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2309.05186)
+
 
 ## LLM for Autonomous Prediction
 LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.18344)
