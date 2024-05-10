@@ -75,5 +75,3 @@ We invite you to follow and star this repository! If you are interested in furth
 Awesome-LLM-for-Autonomous-Driving is released under the Apache 2.0 license.
 
 
-test
-test    2
