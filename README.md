@@ -10,7 +10,7 @@ We invite you to follow and star this repository! If you are interested in furth
 ## 📚 Survey
 - A Survey for Foundation Models in Autonomous Driving. 2024.02 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2402.01105)
 - World Models for Autonomous Driving: An Initial Survey. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.02622)
-- A Survey of Large Lanuguage Models for Autonomous Driving. 2023.11 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.01043)
+- LLM4Drive: A Survey of Large Language Models for Autonomous Driving. 2023.11 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.01043)
 - A Survey on Multimodal Large Language Models for Autonomous Driving. **[WACV 2024]** [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2311.12320)
 - Vision Language Models in Autonomous Driving and Intelligent Transportation Systems.2023.10 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2310.14414)
 - Towards Knowledge-driven Autonomous Driving. 2023.12 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2312.04316)
