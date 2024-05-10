@@ -4,7 +4,7 @@
 
 This repository is dedicated to the collection of research papers on **LLM for Autonomous Driving.** We aim to continuously update it with the latest and most cutting-edge research in the field. This repository is maintained by the Intelligent Vehicle Institute of SJTU.
 
-We invite you to follow and star this repository! If you are interested in further communication or discussion, please don't hesitate to contact me at jianghaoyyds@sjtu.edu.cn and nyx990217@sjtu.edu.cn.
+We invite you to follow and star this repository! If you are interested in further communication or discussion, please don't hesitate to contact us at jianghaoyyds@sjtu.edu.cn and nyx990217@sjtu.edu.cn.
 
 
 ## 📚 Survey
@@ -16,6 +16,8 @@ We invite you to follow and star this repository! If you are interested in furth
 - Towards Knowledge-driven Autonomous Driving. 2023.12 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2312.04316)
 
 ## 📑 LLM for Autonomous Vehicle Perception
+- PerceptionGPT: Effectively Fusing Visual Perception into LLM. **[CVPR 2024]** [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2311.06612)
+- Multi-modal Instruction Tuned LLMs with Fine-grained Visual Perception. **[CVPR 2024]** [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2403.02969) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/jwh97nn/AnyRef)
 - Language-Image Models with 3D Understanding. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2405.03685)
 - LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning. 2024.04 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2404.08767)
 - OpenAnnotate2: Multi-modal Auto-annotating for Autonomous Driving. **[IEEE TIV]** [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10480248) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/Fudan-ProjectTitan/OpenAnnotate)
@@ -27,6 +29,7 @@ We invite you to follow and star this repository! If you are interested in furth
 - SPOT: Scalable 3D Pre-training via Occupancy Prediction for Autonomous Driving. [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://openreview.net/forum?id=9zEBK3E9bX)
 
 ## 📑 LLM for Autonomous Vehicle Prediction
+- Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction. **[CVPR 2024] ** [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.18447) [![Static Badge](https://img.shields.io/badge/paper_code-8A2BE2)](https://github.com/InhwanBae/LMTrajectory?tab=readme-ov-file)
 - RAG-based Explainable Prediction of Road Users Behaviors for Automated Driving using Knowledge Graphs and Large Language Models. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/pdf/2405.00449)
 - Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models. 2024.05 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2405.04909)
 - LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models. 2024.03 [![Static Badge](https://img.shields.io/badge/paper_link-green)](https://arxiv.org/abs/2403.18344)
