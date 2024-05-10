@@ -4,7 +4,7 @@
 
 This repository is dedicated to the collection of research papers on **LLM for Autonomous Driving.** We aim to continuously update it with the latest and most cutting-edge research in the field. This repository is maintained by the Intelligent Vehicle Institute of SJTU.
 
-We invite you to follow and star this repository! If you are interested in further communication or discussion, please don't hesitate to contact me at jianghaoyyds@sjtu.edu.cn.
+We invite you to follow and star this repository! If you are interested in further communication or discussion, please don't hesitate to contact me at jianghaoyyds@sjtu.edu.cn and nyx990217@sjtu.edu.cn.
 
 
 ## 📚 Survey
